@@ -1,0 +1,10 @@
+C:\Users\loril\source\repos\sol_creator\sol_creator\bin\Debug\sol_creator.exe.config
+C:\Users\loril\source\repos\sol_creator\sol_creator\bin\Debug\sol_creator.exe
+C:\Users\loril\source\repos\sol_creator\sol_creator\bin\Debug\sol_creator.pdb
+C:\Users\loril\source\repos\sol_creator\sol_creator\obj\Debug\sol_creator.csprojAssemblyReference.cache
+C:\Users\loril\source\repos\sol_creator\sol_creator\obj\Debug\sol_creator.Form1.resources
+C:\Users\loril\source\repos\sol_creator\sol_creator\obj\Debug\sol_creator.Properties.Resources.resources
+C:\Users\loril\source\repos\sol_creator\sol_creator\obj\Debug\sol_creator.csproj.GenerateResource.cache
+C:\Users\loril\source\repos\sol_creator\sol_creator\obj\Debug\sol_creator.csproj.CoreCompileInputs.cache
+C:\Users\loril\source\repos\sol_creator\sol_creator\obj\Debug\sol_creator.exe
+C:\Users\loril\source\repos\sol_creator\sol_creator\obj\Debug\sol_creator.pdb
